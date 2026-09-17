@@ -2,11 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Rozina%20Sheereen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20%7C%20Generative%20AI%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Final-Year+B.Sc.+AI+%26+ML+Student+%F0%9F%8E%93;Aspiring+AI+%2F+Generative+AI+Engineer+%F0%9F%A4%96;Exploring+LLMs+%7C+RAG+%7C+AI+Agents+%7C+NLP;Turning+Ideas+into+Intelligent+AI+Solutions+%F0%9F%92%A1" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Rozina%20Sheereen&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20%7C%20Generative%20AI%20%7C%20Building%20Intelligent%20Systems&descAlignY=55&descSize=18"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Final-Year+B.Sc.+AI+%26+ML+Student+%F0%9F%8E%93;Aspiring+AI+%2F+Generative+AI+Engineer+%F0%9F%A4%96;Exploring+LLMs+%7C+RAG+%7C+AI+Agents+%7C+NLP;Turning+Ideas+into+Intelligent+AI+Solutions+%F0%9F%92%A1" alt="Typing SVG"/>
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/rozina13">
 <img src="https://img.shields.io/badge/LinkedIn-Rozina%20Sheereen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,6 +22,9 @@
 
 </div>
 
+<br>
+
+---
 ---
 
 # 👩🏻‍💻 About Me
