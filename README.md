@@ -1,159 +1,192 @@
-<!-- =================================================
-     ROZINA SHEEREEN | GITHUB PROFILE
-     Theme: Minimal • Dusty Blue • Lavender • Glass
-================================================== -->
+<!-- ═══════════════════════════════════════════════ -->
+<!--                 ROZINA SHEEREEN                 -->
+<!-- ═══════════════════════════════════════════════ -->
+
 <div align="center">
-<img src="assets/profile-banner.svg" width="100%" alt="Rozina Sheereen - AI and Machine Learning" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8FAFC4&height=150&section=header&text=ROZINA%20SHEEREEN&fontSize=38&fontColor=FFFFFF&fontAlignY=45&desc=AI%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descSize=14&descAlignY=70&descColor=FFFFFF" width="100%"/>
+
 <br/>
+
+### Building intelligent systems, one idea at a time.
+
+*Artificial Intelligence & Machine Learning Student | Aspiring AI Engineer*
+
+<br/>
+
 <a href="https://github.com/Rozina-13">
-<img src="https://img.shields.io/badge/GitHub-Rozina--13-EAF1F8?style=flat-square&logo=github&logoColor=536987" />
+<img src="https://img.shields.io/badge/GitHub-181818?style=flat-square&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-F0ECFA?style=flat-square&logo=linkedin&logoColor=536987" />
+&nbsp;
+<a href="https://www.linkedin.com/in/rozina13/">
+<img src="https://img.shields.io/badge/LinkedIn-8FAFC4?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Rozina-13&style=flat-square&color=91A6C5&label=PROFILE+VIEWS" />
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Rozina-13&style=flat-square&color=8FAFC4&label=PROFILE+VIEWS"/>
+
 </div>
 
-⸻
+<br/>
 
-About Me
+<!-- ABOUT -->
 
-I’m a final-year B.Sc. Artificial Intelligence and Machine Learning student, passionate about building intelligent applications and exploring emerging AI technologies.
+## 01 / About Me
 
-* Exploring Generative AI, Large Language Models and Agentic AI.
-* Interested in Retrieval-Augmented Generation and Multi-Agent Systems.
-* Building practical applications using Python and modern AI frameworks.
-* Exploring ways to solve real-world problems through intelligent systems.
+Hello! I'm **Rozina Sheereen**, an AI & Machine Learning student passionate about building intelligent, practical and impactful solutions.
 
-Career Goal: Generative AI Engineer
+- Exploring the world of Artificial Intelligence and Generative AI.
+- Building AI-powered applications and intelligent agents.
+- Interested in LLMs, RAG and Multi-Agent Systems.
+- Continuously learning, experimenting and building.
 
-⸻
+**Currently exploring:** Agentic AI · LLMs · Deep Learning · AI Engineering
 
-Technical Skills
+<br/>
+
+<!-- TECH STACK -->
+
+## 02 / Technologies & Tools
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-8FAFC4?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-8FAFC4?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI & Machine Learning**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-8FAFC4?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-8FAFC4?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-8FAFC4?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-8FAFC4?style=flat-square&logo=numpy&logoColor=white)
+
+**Generative AI & Development**
+
+![LangChain](https://img.shields.io/badge/LangChain-8FAFC4?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-8FAFC4?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-8FAFC4?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8FAFC4?style=flat-square&logo=googlegemini&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-8FAFC4?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-8FAFC4?style=flat-square&logo=streamlit&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-8FAFC4?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-8FAFC4?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-8FAFC4?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-8FAFC4?style=flat-square&logo=jupyter&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-8FAFC4?style=flat-square&logo=powerbi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-8FAFC4?style=flat-square&logo=mongodb&logoColor=white)
+
+<br/>
+
+<!-- PROJECTS -->
+
+## 03 / Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-Programming
+### AI Investment Research
 
-<img src="https://skillicons.dev/icons?i=python,mysql&theme=light" />
+AI-powered investment research and analysis using Generative AI.
 
-AI & Machine Learning
+`Gemini` `CrewAI` `LangGraph`
 
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn&theme=light" />
-
-Python · NumPy · Pandas · Scikit-learn
+`FastAPI` `Streamlit`
 
 </td>
 <td width="50%" valign="top">
 
-Generative AI
+### Google Play Store Analytics
 
-<img src="https://skillicons.dev/icons?i=langchain&theme=light" />
+Data analytics project exploring app market trends, ratings and performance.
 
-LangChain · LangGraph · CrewAI · Gemini · Hugging Face
-
-Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,fastapi&theme=light" />
-
-Streamlit · Jupyter · Power BI · MongoDB
-
-</td>
-</tr>
-</table>
-
-⸻
-
-Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-AI Stock Research Analysis
-
-AI-powered investment research using Generative AI and multi-agent workflows.
-
-Gemini CrewAI LangGraph FastAPI Streamlit
-
-</td>
-<td width="50%" valign="top">
-
-Movie Search Web App
-
-An IMDb-inspired web application for discovering and searching movies.
-
-HTML CSS JavaScript API
+`Python` `Pandas` `Data Studio`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-Google Play Store Analytics
+### Movie Search Application
 
-Data analysis and visualization to explore Google Play Store applications and trends.
+An IMDb-inspired movie search web application.
 
-Python Pandas Data Analytics
+`HTML` `CSS` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-Time, Journey & Distance Prediction
+### Time, Journey & Distance Prediction
 
-A machine learning project focused on travel-related predictions.
+A prediction-based project exploring travel-related data.
 
-Python Machine Learning Scikit-learn
+`Python` `Machine Learning`
 
 </td>
 </tr>
 </table>
+
 <div align="center">
 
-Explore all my repositories →
+<a href="https://github.com/Rozina-13?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20All%20Projects-8FAFC4?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-⸻
-
-GitHub Activity
-
-<div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rozina-13&show_icons=true&hide_border=true&bg_color=F5F7FC&title_color=536987&icon_color=8D9FC4&text_color=596A82" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rozina-13&layout=compact&hide_border=true&bg_color=F5F7FC&title_color=536987&text_color=596A82" />
 <br/>
-<img width="65%" src="https://streak-stats.demolab.com?user=Rozina-13&hide_border=true&background=F5F7FC&ring=91A6C5&fire=B6A5D8&currStreakLabel=536987&sideLabels=596A82&dates=8998AC" />
-</div>
 
-⸻
+<!-- GITHUB ANALYTICS -->
 
-Currently Exploring
-
-<div align="center">
-<img src="https://img.shields.io/badge/Large%20Language%20Models-EAF1F8?style=flat-square&labelColor=EAF1F8&color=EAF1F8" />
-<img src="https://img.shields.io/badge/RAG-F0ECFA?style=flat-square&labelColor=F0ECFA&color=F0ECFA" />
-<img src="https://img.shields.io/badge/AI%20Agents-EAF1F8?style=flat-square&labelColor=EAF1F8&color=EAF1F8" />
-<img src="https://img.shields.io/badge/Multi--Agent%20Systems-F0ECFA?style=flat-square&labelColor=F0ECFA&color=F0ECFA" />
-<img src="https://img.shields.io/badge/MLOps-EAF1F8?style=flat-square&labelColor=EAF1F8&color=EAF1F8" />
-</div>
-
-⸻
-
-Let’s Connect
+## 04 / GitHub Analytics
 
 <div align="center">
 
-I’m always open to connecting with developers, AI enthusiasts and technology professionals.
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rozina-13&show_icons=true&hide_border=true&bg_color=F5F8FA&title_color=718FA6&icon_color=8FAFC4&text_color=526575&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rozina-13&layout=compact&hide_border=true&bg_color=F5F8FA&title_color=718FA6&text_color=526575" />
+
+<br/><br/>
+
+<img width="80%" src="https://streak-stats.demolab.com?user=Rozina-13&hide_border=true&background=F5F8FA&ring=8FAFC4&fire=8FAFC4&currStreakLabel=718FA6&sideLabels=526575&currStreakNum=526575&sideNums=526575&dates=8A9AA8" />
+
+</div>
+
+<br/>
+
+<!-- CONTRIBUTION GRAPH -->
+
+## 05 / Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rozina-13&bg_color=F5F8FA&color=718FA6&line=8FAFC4&point=718FA6&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+<!-- CONNECT -->
+
+## 06 / Let's Connect
+
+I'm always interested in connecting with developers, AI enthusiasts and people who love building meaningful technology.
+
+<div align="center">
 
 <a href="https://github.com/Rozina-13">
-<img src="https://img.shields.io/badge/GitHub-Visit%20Profile-EAF1F8?style=for-the-badge&logo=github&logoColor=536987" />
+<img src="https://img.shields.io/badge/GitHub-8FAFC4?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-F0ECFA?style=for-the-badge&logo=linkedin&logoColor=536987" />
+<a href="https://www.linkedin.com/in/rozina13/">
+<img src="https://img.shields.io/badge/LinkedIn-8FAFC4?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-Learn · Build · Experiment · Innovate
+<br/><br/>
+
+*Learning continuously. Building consistently. Growing with purpose.*
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8FAFC4&height=65&section=footer"/>
 
 </div>
