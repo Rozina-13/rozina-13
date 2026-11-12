@@ -1,3 +1,4 @@
+<img width="1600" height="533" alt="PHOTO-2026-11-12-13-45-16" src="https://github.com/user-attachments/assets/d7de9f4c-93b4-4cd0-8aef-80f73eeba23f" />
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
